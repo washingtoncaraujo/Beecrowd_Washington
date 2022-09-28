@@ -1,4 +1,4 @@
-# https://www.beecrowd.com.br/judge/pt/runs/code/29352781
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1004
 ''' Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.   
 Entrada
 O arquivo de entrada contém 2 valores inteiros.

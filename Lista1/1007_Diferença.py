@@ -1,4 +1,4 @@
-# https://www.beecrowd.com.br/judge/pt/runs/code/29352798
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1007
 ''' Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 Entrada
 O arquivo de entrada contém 4 valores inteiros.

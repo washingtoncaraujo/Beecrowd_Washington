@@ -1,4 +1,4 @@
-# https://www.beecrowd.com.br/judge/pt/runs/code/29352759
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1003
 ''' Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
 Entrada
 O arquivo de entrada contém 2 valores inteiros.
