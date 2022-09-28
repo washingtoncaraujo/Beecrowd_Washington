@@ -1,2 +1,2 @@
 # Beecrowd
- Exercícios do beecrowd
+ Exercícios do beecrowd referentes as aulas de algoritmos
